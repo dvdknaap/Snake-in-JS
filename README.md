@@ -1,4 +1,4 @@
-### Snake-in-JS
+### Snake in JS
 Created snake in p5js
 
 ### Demo
